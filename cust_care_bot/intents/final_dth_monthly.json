@@ -1,0 +1,44 @@
+{
+  "id": "5716c19d-2109-42cd-803a-a46e4171852c",
+  "name": "final_dth_monthly",
+  "auto": true,
+  "contexts": [
+    "dth_monthly"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "782d9027-e7a8-40e4-be5a-f795721097fb",
+          "required": true,
+          "dataType": "@dth_monthly_plan",
+          "name": "dth_monthly_plan",
+          "value": "$dth_monthly_plan",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Awesome, your recharge for $dth_monthly_plan is done. Please let me know if you need further assistance."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527425882,
+  "fallbackIntent": false,
+  "events": []
+}

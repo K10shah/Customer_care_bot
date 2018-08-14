@@ -1,0 +1,44 @@
+[
+  {
+    "id": "20afb9ba-67f6-426f-93d7-85cf4ad14dad",
+    "data": [
+      {
+        "text": "2000",
+        "alias": "upinum",
+        "meta": "@sys.number-integer",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527437005
+  },
+  {
+    "id": "6a639a5b-3dee-4c79-aed2-440da7aea807",
+    "data": [
+      {
+        "text": "999",
+        "alias": "upinum",
+        "meta": "@sys.number-integer",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527437005
+  },
+  {
+    "id": "68b509bb-c440-4a06-9b16-28c54df701d5",
+    "data": [
+      {
+        "text": "1500",
+        "alias": "upinum",
+        "meta": "@sys.number-integer",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527437005
+  }
+]

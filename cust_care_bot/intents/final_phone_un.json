@@ -1,0 +1,47 @@
+{
+  "id": "f27c9a13-a4bf-4b10-a480-5ab7fef42386",
+  "name": "final_phone_un",
+  "auto": true,
+  "contexts": [
+    "unlimited"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ca6f280e-0e9f-4a51-8a08-36c047551717",
+          "required": true,
+          "dataType": "@sys.number-sequence",
+          "name": "number-sequence",
+          "value": "$number-sequence",
+          "isList": false
+        },
+        {
+          "id": "20a86847-78da-40ce-bf3c-5b38de8b513d",
+          "required": true,
+          "dataType": "@Unlimited_plan",
+          "name": "un-plan",
+          "value": "#unlimited.Unlimited_plan",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Great your recharge for Prepaid card unlimited plan for the $un-plan for $number-sequence is done. Happy to help you."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527213918,
+  "fallbackIntent": false,
+  "events": []
+}

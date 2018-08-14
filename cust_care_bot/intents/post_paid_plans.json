@@ -1,0 +1,28 @@
+{
+  "id": "8810801d-907c-4963-9e41-7fea3f49e8fa",
+  "name": "post_paid_plans",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Well there is lot of choice and you can select as per your choice and usage. So here are the best selling ones\nRs. 399, Rs. 499, Rs. 649, Rs. 799, Rs. 1199"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527425157,
+  "fallbackIntent": false,
+  "events": []
+}

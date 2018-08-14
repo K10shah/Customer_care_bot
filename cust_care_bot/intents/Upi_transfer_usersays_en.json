@@ -1,0 +1,50 @@
+[
+  {
+    "id": "345ace7d-713b-4a85-b7b5-6410980c6728",
+    "data": [
+      {
+        "text": "Payment using Upi transfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527433313
+  },
+  {
+    "id": "fe3aa400-50ef-4a92-b4ae-951538f1d9b7",
+    "data": [
+      {
+        "text": "How do I make payment payment using UPI transfer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527433313
+  },
+  {
+    "id": "cbc6f465-d75b-4bec-8f94-d0849b686c7b",
+    "data": [
+      {
+        "text": "i want to make a transfer using upi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527434728
+  },
+  {
+    "id": "7ef1a496-d4e9-4822-8281-0316b7681e8d",
+    "data": [
+      {
+        "text": "Upi transfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527433313
+  }
+]

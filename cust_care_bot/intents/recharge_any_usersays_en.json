@@ -1,0 +1,74 @@
+[
+  {
+    "id": "29cb1219-b409-4e5b-b4ed-fd2ffdef32ea",
+    "data": [
+      {
+        "text": "recharge",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1527209207
+  },
+  {
+    "id": "ea2c05dd-5921-479a-8fbd-ac28dec825a6",
+    "data": [
+      {
+        "text": "i want to recharge",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1527209207
+  },
+  {
+    "id": "1a710e2a-ed9c-42eb-b83a-acac6de31cff",
+    "data": [
+      {
+        "text": "recharge my  balance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527209207
+  },
+  {
+    "id": "7a6851fe-41ba-4451-95e1-2dd684c1dbe2",
+    "data": [
+      {
+        "text": "Recharge my",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527209207
+  },
+  {
+    "id": "d59a5bfa-93ce-49d0-93c1-03ff7cb30752",
+    "data": [
+      {
+        "text": "recharge my",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527209207
+  },
+  {
+    "id": "bb50e523-95ed-4b3a-9833-182cb1c797eb",
+    "data": [
+      {
+        "text": "i need to refill my balance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1527209207
+  }
+]

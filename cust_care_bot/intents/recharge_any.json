@@ -1,0 +1,38 @@
+{
+  "id": "e017869b-2235-46fd-83a4-e75dff53ccc8",
+  "name": "recharge_any",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "recharge_mobile-followup",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Cool, Now select what device do you want to recharge? Mobile or DTH?",
+            "Mobile or DTH?",
+            "Which device would you like to recharge? Mobile or DTH?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527436735,
+  "fallbackIntent": false,
+  "events": []
+}

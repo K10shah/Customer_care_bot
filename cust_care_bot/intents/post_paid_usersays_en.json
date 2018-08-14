@@ -1,0 +1,71 @@
+[
+  {
+    "id": "e528e97d-ebcb-4df7-a183-0abcc62b2f92",
+    "data": [
+      {
+        "text": "post-paid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527215985
+  },
+  {
+    "id": "6484b78e-1cb5-47c8-8970-ccd4b5c6d2b9",
+    "data": [
+      {
+        "text": "postpaid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527215985
+  },
+  {
+    "id": "d4571275-2aea-4e27-a571-2dbb472347a8",
+    "data": [
+      {
+        "text": "i want help with postpaid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527215985
+  },
+  {
+    "id": "a1c6c2c6-79d0-4561-b164-7c1952789a40",
+    "data": [
+      {
+        "text": "post paid bill payment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527215985
+  },
+  {
+    "id": "ee35cf40-9e3e-4a2f-9b35-8d93d4fef973",
+    "data": [
+      {
+        "text": "I want to know where to pay the ",
+        "userDefined": false
+      },
+      {
+        "text": "bill",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " of post paid",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527215985
+  }
+]

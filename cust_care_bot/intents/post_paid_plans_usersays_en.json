@@ -1,0 +1,26 @@
+[
+  {
+    "id": "f00640ec-48d0-48dc-93df-8f6d357ca9cd",
+    "data": [
+      {
+        "text": "post-paid plans",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1527216465
+  },
+  {
+    "id": "4b7ad735-9cb7-45f5-aeb4-e8a484a8d2fb",
+    "data": [
+      {
+        "text": "What are the postpaid plans available for me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527216465
+  }
+]

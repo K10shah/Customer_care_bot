@@ -1,0 +1,88 @@
+[
+  {
+    "id": "cc008779-d148-4273-832c-92dcfc94e10e",
+    "data": [
+      {
+        "text": "unlimited",
+        "alias": "Mobile_plan",
+        "meta": "@Mobile_plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527210736
+  },
+  {
+    "id": "03d6edb8-4ee1-416a-aebc-7cffb9ab3948",
+    "data": [
+      {
+        "text": "let me check ",
+        "userDefined": false
+      },
+      {
+        "text": "unlimited plans",
+        "alias": "Mobile_plan",
+        "meta": "@Mobile_plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527210736
+  },
+  {
+    "id": "e6d14382-bc91-450a-a87a-b563bf96cbb8",
+    "data": [
+      {
+        "text": "i want to see what ",
+        "userDefined": false
+      },
+      {
+        "text": "unlimited plans",
+        "alias": "Mobile_plan",
+        "meta": "@Mobile_plan",
+        "userDefined": false
+      },
+      {
+        "text": " are there",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527210736
+  },
+  {
+    "id": "619b4219-acee-43e8-94b4-eb10ee03334c",
+    "data": [
+      {
+        "text": "unlimited plans",
+        "alias": "Mobile_plan",
+        "meta": "@Mobile_plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527210736
+  },
+  {
+    "id": "11e5e9f3-0207-4d1e-afbe-05f58b3fc74f",
+    "data": [
+      {
+        "text": "i want to check out ",
+        "userDefined": false
+      },
+      {
+        "text": "unlimited plans",
+        "alias": "Mobile_plan",
+        "meta": "@Mobile_plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527210736
+  }
+]

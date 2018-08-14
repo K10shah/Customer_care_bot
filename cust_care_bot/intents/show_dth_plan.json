@@ -1,0 +1,35 @@
+{
+  "id": "249a618c-2fe1-4c1d-b5cb-127d96e116cc",
+  "name": "show_dth_plan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "520918d2-d828-414e-ac0e-4c4359f568ed",
+          "dataType": "@Type_of_device",
+          "name": "Type_of_device",
+          "value": "DTH"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527167024,
+  "fallbackIntent": false,
+  "events": []
+}

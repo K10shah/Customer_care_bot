@@ -1,0 +1,48 @@
+{
+  "id": "a8485e09-b973-454e-9530-9d87748892c0",
+  "name": "final_phone_data",
+  "auto": true,
+  "contexts": [
+    "final_phone_data",
+    "data"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "33c8fa74-7095-4806-a31d-14fcd1e8b088",
+          "required": true,
+          "dataType": "@sys.number-sequence",
+          "name": "number-sequence",
+          "value": "$number-sequence",
+          "isList": false
+        },
+        {
+          "id": "0e5d1efe-dcca-4891-bcd1-0f86d4dc43f9",
+          "required": true,
+          "dataType": "@data_plan",
+          "name": "d_plan",
+          "value": "#data.data_plan",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Awesome your recharge for the number $number-sequence for Rs. $d_plan is done. Happy to help you."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527427673,
+  "fallbackIntent": false,
+  "events": []
+}

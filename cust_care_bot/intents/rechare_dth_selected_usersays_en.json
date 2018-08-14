@@ -1,0 +1,58 @@
+[
+  {
+    "id": "270a05ff-f741-441e-8f4b-309da42edeaa",
+    "data": [
+      {
+        "text": "DTH",
+        "alias": "Type-of-device",
+        "meta": "@Type_of_device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1527215260
+  },
+  {
+    "id": "42117595-39b8-457c-99a4-1bb44cacc178",
+    "data": [
+      {
+        "text": "video",
+        "alias": "Type-of-device",
+        "meta": "@Type_of_device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527215260
+  },
+  {
+    "id": "22978ee8-791d-4c4c-99b7-3ca524667e8f",
+    "data": [
+      {
+        "text": "digital video",
+        "alias": "Type-of-device",
+        "meta": "@Type_of_device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527215260
+  },
+  {
+    "id": "c5416cf9-f64c-41c7-a991-d6a3368229a8",
+    "data": [
+      {
+        "text": "\u0027digital DTH",
+        "alias": "Type-of-device",
+        "meta": "@Type_of_device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527215260
+  }
+]

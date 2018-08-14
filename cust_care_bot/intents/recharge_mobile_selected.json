@@ -1,0 +1,56 @@
+{
+  "id": "6df32fb1-be29-4ef2-92da-f42eee183988",
+  "parentId": "e017869b-2235-46fd-83a4-e75dff53ccc8",
+  "rootParentId": "e017869b-2235-46fd-83a4-e75dff53ccc8",
+  "name": "recharge_mobile_selected",
+  "auto": true,
+  "contexts": [
+    "recharge_mobile-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "recharge_mobile.recharge_mobile-custom-2",
+      "affectedContexts": [
+        {
+          "name": "recharge_mobile-custom-2-followup",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "recharge_mobile_selected-followup",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "49b91ddd-f138-420e-af42-dafa0c5aa111",
+          "required": true,
+          "dataType": "@Type_of_device",
+          "name": "Type_of_device",
+          "value": "$Type_of_device",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Okay, select what plan would you like to know more about: unlimited, voice or data?",
+            "Would you like to know more about our unlimited plans or voice or data plans?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527436649,
+  "fallbackIntent": false,
+  "events": []
+}

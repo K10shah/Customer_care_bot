@@ -1,0 +1,42 @@
+{
+  "id": "a2300ec0-270f-420e-a062-65ab8c94dd9a",
+  "name": "show_phone_plan",
+  "auto": true,
+  "contexts": [
+    "recharge_mobile"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "39ac3693-5386-4ae2-b93e-9a775d6680dc",
+          "required": true,
+          "dataType": "@Type_of_device",
+          "name": "Type_of_device",
+          "value": "mobile",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Would you like know more about the unlimited plans or voice or data plans? Please type one of them.",
+            "We have unlimited plans for you or would you like to see the voice or data plans? Kindly choose one."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527209542,
+  "fallbackIntent": false,
+  "events": []
+}

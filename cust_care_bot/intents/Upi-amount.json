@@ -1,0 +1,52 @@
+{
+  "id": "3a345d80-f034-4e89-9080-34433a140967",
+  "name": "Upi-amount",
+  "auto": true,
+  "contexts": [
+    "upitrans"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "upitrans",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "9918ea81-7b01-459f-b836-b09452e2f285",
+          "required": false,
+          "dataType": "@sys.number-integer",
+          "name": "upinum",
+          "value": "$upinum",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Enter a valid amount"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Now enter an account number"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527437005,
+  "fallbackIntent": false,
+  "events": []
+}

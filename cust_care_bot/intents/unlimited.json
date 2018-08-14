@@ -1,0 +1,48 @@
+{
+  "id": "6e258779-2885-4096-991f-bf1ab7e83a77",
+  "name": "unlimited",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "unlimited",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "final_phone_un",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8af3246f-71a7-4033-8736-bf61c1b8f4e7",
+          "required": true,
+          "dataType": "@Unlimited_plan",
+          "name": "Unlimited_plan",
+          "value": "$Unlimited_plan",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Great you\u0027ve selected the $Unlimited_plan, now please enter your phone number"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527436472,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "952d1831-9932-49d6-b893-0ea240f96f51",
+  "name": "post_paid",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You are just a click away, please click on the below link and you are set to pay\n     www.airtel.in/postpaid-bill-pay/\n    On the other hand, if you have Airtel account you can pay through self-care by clicking below link\n     https://www.airtel.in/s/selfcare/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527215985,
+  "fallbackIntent": false,
+  "events": []
+}

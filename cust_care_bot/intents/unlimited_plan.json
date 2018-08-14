@@ -1,0 +1,49 @@
+{
+  "id": "dee9648e-e344-470b-92e4-1ad129ada441",
+  "parentId": "6df32fb1-be29-4ef2-92da-f42eee183988",
+  "rootParentId": "e017869b-2235-46fd-83a4-e75dff53ccc8",
+  "name": "unlimited_plan",
+  "auto": true,
+  "contexts": [
+    "recharge_mobile_selected-followup",
+    "recharge_mobile-custom-2-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "recharge_mobile.recharge_mobile-custom-2.recharge_mobile_selected-custom",
+      "affectedContexts": [
+        {
+          "name": "unlimited",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b760609e-06be-451b-b866-60db1e29d104",
+          "required": true,
+          "dataType": "@Mobile_plan",
+          "name": "Mobile_plan",
+          "value": "$Mobile_plan",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Here are the Best Selling Unlimited Packs, You are seeing tariff for Mumbai (Show google pin)\t\nMRP Rs. 249 Rs.448 Rs.499 Rs.509"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527436662,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "3ecd1dc1-0898-4427-99a2-84f048e5a709",
+  "name": "final_dth_long_term",
+  "auto": true,
+  "contexts": [
+    "dth_long_term"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5e71775a-15cb-4df6-adb6-06be915c39e2",
+          "required": true,
+          "dataType": "@dth_long_term",
+          "name": "dth_long_term",
+          "value": "$dth_long_term",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Awesome your long duration plan \" $dth_long_term \" has been activated. Happy to help you."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527215599,
+  "fallbackIntent": false,
+  "events": []
+}

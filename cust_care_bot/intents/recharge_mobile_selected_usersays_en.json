@@ -1,0 +1,76 @@
+[
+  {
+    "id": "c2d1da56-7693-44dc-80f6-a4ac4e2d48d5",
+    "data": [
+      {
+        "text": "mobile",
+        "alias": "Type_of_device",
+        "meta": "@Type_of_device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527196188
+  },
+  {
+    "id": "868b7667-8c08-4e9b-b343-cc58196e5474",
+    "data": [
+      {
+        "text": "prepaid",
+        "alias": "Type_of_device",
+        "meta": "@Type_of_device",
+        "userDefined": true
+      },
+      {
+        "text": " card",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527196188
+  },
+  {
+    "id": "0077a41d-ad60-46c1-98bb-c7c3acd99b2a",
+    "data": [
+      {
+        "text": "prepaid",
+        "alias": "Type_of_device",
+        "meta": "@Type_of_device",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527196188
+  },
+  {
+    "id": "c32898f8-c974-4e94-b301-f5c2dffcb87d",
+    "data": [
+      {
+        "text": "sim card",
+        "alias": "Type_of_device",
+        "meta": "@Type_of_device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527196188
+  },
+  {
+    "id": "abf89b7a-badb-4953-ae41-fef5adf16889",
+    "data": [
+      {
+        "text": "phone",
+        "alias": "Type_of_device",
+        "meta": "@Type_of_device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527196188
+  }
+]

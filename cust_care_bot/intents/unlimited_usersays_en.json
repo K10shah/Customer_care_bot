@@ -1,0 +1,116 @@
+[
+  {
+    "id": "8a5c5f45-c221-493e-9b0b-354721ed11a2",
+    "data": [
+      {
+        "text": "Rs. 509",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527211277
+  },
+  {
+    "id": "5faaa26c-e678-45f8-bbec-9359c896986a",
+    "data": [
+      {
+        "text": "448",
+        "alias": "Unlimited_plan",
+        "meta": "@Unlimited_plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527211277
+  },
+  {
+    "id": "dd91f299-d562-44bc-b718-96b5b4358c09",
+    "data": [
+      {
+        "text": "499",
+        "alias": "Unlimited_plan",
+        "meta": "@Unlimited_plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527211277
+  },
+  {
+    "id": "0210e0b7-cfe0-4ca6-90dc-41435c3a6978",
+    "data": [
+      {
+        "text": "Rs. 499",
+        "alias": "Unlimited_plan",
+        "meta": "@Unlimited_plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527211277
+  },
+  {
+    "id": "b963695a-2d56-469e-b2c8-14395ac2ff6e",
+    "data": [
+      {
+        "text": "Rs. 448",
+        "alias": "Unlimited_plan",
+        "meta": "@Unlimited_plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527211277
+  },
+  {
+    "id": "61d8c5dc-cbd8-42b3-81fe-755b75db0c1c",
+    "data": [
+      {
+        "text": "rs. ",
+        "userDefined": false
+      },
+      {
+        "text": "249",
+        "alias": "Unlimited_plan",
+        "meta": "@Unlimited_plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527211277
+  },
+  {
+    "id": "e9576fc1-d3b9-483e-b060-7658d8952549",
+    "data": [
+      {
+        "text": "249",
+        "alias": "Unlimited_plan",
+        "meta": "@Unlimited_plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527211277
+  },
+  {
+    "id": "05e53b5a-04f6-49fe-834f-f74e4176dccf",
+    "data": [
+      {
+        "text": "509",
+        "alias": "Unlimited_plan",
+        "meta": "@Unlimited_plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527211277
+  }
+]

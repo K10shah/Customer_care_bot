@@ -1,0 +1,48 @@
+{
+  "id": "09131dc5-bdb3-48ba-884b-785ad2527ce4",
+  "parentId": "e017869b-2235-46fd-83a4-e75dff53ccc8",
+  "rootParentId": "e017869b-2235-46fd-83a4-e75dff53ccc8",
+  "name": "rechare_dth_selected",
+  "auto": true,
+  "contexts": [
+    "recharge_mobile-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "recharge_mobile.recharge_mobile-custom",
+      "affectedContexts": [
+        {
+          "name": "rechare_dth_selected-followup",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "13b58f41-6a75-40fb-9e6e-adc2761c4a78",
+          "required": true,
+          "dataType": "@Type_of_device",
+          "name": "Type-of-device",
+          "value": "$Type-of-device",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Ok select what plan do you want for DTH? Monthly or Long term?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527436748,
+  "fallbackIntent": false,
+  "events": []
+}

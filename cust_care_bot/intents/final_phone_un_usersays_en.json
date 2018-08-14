@@ -1,0 +1,16 @@
+[
+  {
+    "id": "77ee3da7-90e6-4e61-8171-20fe8f1c16d8",
+    "data": [
+      {
+        "text": "9999999999",
+        "alias": "number-sequence",
+        "meta": "@sys.number-sequence",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527211848
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "id": "7bfb26ae-17c5-4c19-a1cd-a11fb9a9fa12",
+  "name": "Upi_transfer",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "upitrans",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Its as quick as pressing a button, we have already done work of fetching your upi id and here  it is AIRPAY100448, you just need to provide me amount n id where you want to transfer the money. Let\u0027s start with the amount. How much amount do you want to transfer."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527435256,
+  "fallbackIntent": false,
+  "events": []
+}

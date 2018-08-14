@@ -1,0 +1,28 @@
+{
+  "id": "d5191b41-03ee-45ad-9379-f55da4a33aeb",
+  "name": "Upi_account",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Following are the steps to follow\n1. Update your \"My Airtel\" App\n\n2. Select UPI from the Bank tab\n\nConsumers need to create a personalized handle. Initially, it will be your mobile number."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527427744,
+  "fallbackIntent": false,
+  "events": []
+}

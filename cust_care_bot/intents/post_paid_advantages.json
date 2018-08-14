@@ -1,0 +1,31 @@
+{
+  "id": "b5a20363-77ee-4f82-a220-f32177efcc76",
+  "name": "post_paid_advantages",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Yes sure, there is whole bouquet of benefits that we offer with the plan you choose and check the benefits as below:\na) Handset damage repair\nb) Unused data will be added back\nc) Amazon prime subscription\nd) Live TV \u0026 Movies will be free\ne) Free calls on National Roaming\nf) Trackage of usage every minute\ng) Saving up to 20% on family mobile spends",
+            "There is whole bouquet of benefits that we offer with the plan you choose and check the benefits as below:\na) Handset damage repair\nb) Unused data will be added back\nc) Amazon prime subscription\nd) Live TV \u0026 Movies will be free\ne) Free calls on National Roaming\nf) Trackage of usage every minute\ng) Saving up to 20% on family mobile spends"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527427895,
+  "fallbackIntent": false,
+  "events": []
+}
