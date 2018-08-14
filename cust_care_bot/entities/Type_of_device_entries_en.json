@@ -1,0 +1,23 @@
+[
+  {
+    "value": "Mobile Card",
+    "synonyms": [
+      "Mobile Card",
+      "prepaid car",
+      "phone",
+      "prepaid phone",
+      "sim card",
+      "mobile sim",
+      "mobile"
+    ]
+  },
+  {
+    "value": "DTH",
+    "synonyms": [
+      "DTH",
+      "digital dth",
+      "digital video",
+      "video"
+    ]
+  }
+]

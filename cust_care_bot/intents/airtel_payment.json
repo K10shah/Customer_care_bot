@@ -1,0 +1,28 @@
+{
+  "id": "a1a29321-1feb-4b7c-8fd6-14ca83ee87a2",
+  "name": "airtel_payment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "1. Login to Airtel Money. You will see sections for Recharges/Pay bills/ Pay Merchant. Select Pay Bills and you can select electricity, gas, etc.  Select desired service and enter provider details as well as your consumer no. and cycle no. to get summary details for bill. Once details are fetched you can make payment using your MPIN"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527436157,
+  "fallbackIntent": false,
+  "events": []
+}

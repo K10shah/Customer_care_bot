@@ -1,0 +1,33 @@
+[
+  {
+    "value": "voice plan",
+    "synonyms": [
+      "voice plan",
+      "calling",
+      "calling plan",
+      "voice",
+      "calling charges"
+    ]
+  },
+  {
+    "value": "data plan",
+    "synonyms": [
+      "data plan",
+      "data",
+      "internet",
+      "internet plan",
+      "internet data",
+      "internet scheme",
+      "data scheme",
+      "data offers"
+    ]
+  },
+  {
+    "value": "unlimited plan",
+    "synonyms": [
+      "unlimited plan",
+      "unlimited",
+      "unlimited scheme"
+    ]
+  }
+]

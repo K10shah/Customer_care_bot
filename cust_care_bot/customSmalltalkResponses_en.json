@@ -1,0 +1,129 @@
+[
+  {
+    "action": "smalltalk.agent.acquaintance",
+    "customAnswers": [
+      "I am your Airtel assistant"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.age",
+    "customAnswers": [
+      "just a day old"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.annoying",
+    "customAnswers": [
+      "sorry for that",
+      "apologize for my behavior"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.answer_my_question",
+    "customAnswers": [
+      "Yes I\u0027ll try my best"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.bad",
+    "customAnswers": [
+      "I only want good for you"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.be_clever",
+    "customAnswers": [
+      "If you help me out"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.beautiful",
+    "customAnswers": [
+      "Thank you so much, but not more than you"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.birth_date",
+    "customAnswers": [
+      "yesterday"
+    ]
+  },
+  {
+    "action": "smalltalk.appraisal.well_done",
+    "customAnswers": [
+      "Thank you :)"
+    ]
+  },
+  {
+    "action": "smalltalk.confirmation.cancel",
+    "customAnswers": [
+      "Ok. let\u0027s try something else."
+    ]
+  },
+  {
+    "action": "smalltalk.confirmation.no",
+    "customAnswers": [
+      "Ok."
+    ]
+  },
+  {
+    "action": "smalltalk.confirmation.yes",
+    "customAnswers": [
+      "Ok."
+    ]
+  },
+  {
+    "action": "smalltalk.emotions.ha_ha",
+    "customAnswers": [
+      ";)"
+    ]
+  },
+  {
+    "action": "smalltalk.emotions.wow",
+    "customAnswers": [
+      ":D"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.bye",
+    "customAnswers": [
+      "Bye, have a great day."
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.goodevening",
+    "customAnswers": [
+      "Good evening :)"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.goodmorning",
+    "customAnswers": [
+      "Good morning :)"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.goodnight",
+    "customAnswers": [
+      "Good night, Sweet dreams."
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.hello",
+    "customAnswers": [
+      "Hello :)"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.how_are_you",
+    "customAnswers": [
+      "I\u0027m fine how are you?"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.nice_to_meet_you",
+    "customAnswers": [
+      "Likewise"
+    ]
+  }
+]

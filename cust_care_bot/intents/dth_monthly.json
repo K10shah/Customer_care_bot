@@ -1,0 +1,39 @@
+{
+  "id": "19c088ec-0f1f-4b85-bd32-a7d7b5c284b4",
+  "parentId": "09131dc5-bdb3-48ba-884b-785ad2527ce4",
+  "rootParentId": "e017869b-2235-46fd-83a4-e75dff53ccc8",
+  "name": "dth_monthly",
+  "auto": true,
+  "contexts": [
+    "rechare_dth_selected-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "recharge_mobile.recharge_mobile-custom.rechare_dth_selected-custom",
+      "affectedContexts": [
+        {
+          "name": "dth_monthly",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "For monthly we have following are available plans for you, please select one.\nMyPlan 99, MyPlan 199"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527436760,
+  "fallbackIntent": false,
+  "events": []
+}

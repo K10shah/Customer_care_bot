@@ -1,0 +1,50 @@
+{
+  "id": "9529a914-c544-4417-a45e-6ed869208c65",
+  "name": "data",
+  "auto": true,
+  "contexts": [
+    "data"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "data",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "final_phone_data",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b3d8e122-21f6-4758-949a-40241f123b59",
+          "required": true,
+          "dataType": "@data_plan",
+          "name": "data_plan",
+          "value": "$data_plan",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Great you\u0027ve selected the $data_plan Rs. plan for data, kindly enter your phone number"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527436483,
+  "fallbackIntent": false,
+  "events": []
+}

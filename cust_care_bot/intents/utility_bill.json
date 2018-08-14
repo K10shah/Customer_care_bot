@@ -1,0 +1,28 @@
+{
+  "id": "088bbd5a-055e-4a4e-a59c-46f3dce13666",
+  "name": "utility_bill",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Yes , its simple all you need is Airtel money account or Airtel Payments bank account\nAnd you can find more details for both below\nAirtel Money\n\nAirtel Bank Payment"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527216224,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "6a1c9ffa-423e-49fa-ab00-0c211734ca47",
+    "data": [
+      {
+        "text": "uniq1234",
+        "alias": "Id",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1527435040
+  },
+  {
+    "id": "35fca690-dabf-4634-adad-59ada1b5b742",
+    "data": [
+      {
+        "text": "Abcd1235",
+        "alias": "Id",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527435040
+  }
+]

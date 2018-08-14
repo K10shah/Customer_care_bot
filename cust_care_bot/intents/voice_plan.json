@@ -1,0 +1,48 @@
+{
+  "id": "9eb2e78e-4c4d-4921-b2e1-2d2255e40b97",
+  "parentId": "6df32fb1-be29-4ef2-92da-f42eee183988",
+  "rootParentId": "e017869b-2235-46fd-83a4-e75dff53ccc8",
+  "name": "voice_plan",
+  "auto": true,
+  "contexts": [
+    "recharge_mobile-custom-2-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "recharge_mobile.recharge_mobile-custom-2.recharge_mobile-custom-2-custom",
+      "affectedContexts": [
+        {
+          "name": "voice",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c979ca74-dca0-46b6-b309-975660d89b0e",
+          "required": true,
+          "dataType": "@Mobile_plan",
+          "name": "Mobile_plan",
+          "value": "$Mobile_plan",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Great so you are looking for voice plan options, and we have following are the plans available for Mumbai, please select one of your choices.\nAll Plans(use Rs symbol)\nRs. 18, Rs. 26, Rs. 47, Rs. 105, Rs. 300, Rs. 350, Rs. 500"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527436672,
+  "fallbackIntent": false,
+  "events": []
+}

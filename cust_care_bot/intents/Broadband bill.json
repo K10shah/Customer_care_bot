@@ -1,0 +1,37 @@
+{
+  "id": "486541b3-99e8-465c-865e-2ce71a997160",
+  "name": "Broadband bill",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "cad8fc17-9e85-4e84-99f8-1ca77a1f282f",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You can make broadband bill payment by clicking on the link below.\n\nhttps://www.airtel.in/broadband-bill-pay/"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527427636,
+  "fallbackIntent": false,
+  "events": []
+}

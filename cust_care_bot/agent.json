@@ -1,0 +1,49 @@
+{
+  "description": "This is a airtel customer care bot",
+  "language": "en",
+  "activeAssistantAgents": [
+    "smalltalk-domain-on",
+    "smalltalk-fulfillment-on"
+  ],
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "project": "cust-care-bot",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [],
+    "systemIntents": [],
+    "endIntentIds": [
+      "f27c9a13-a4bf-4b10-a480-5ab7fef42386",
+      "a6424777-764a-4761-8963-5af95ad9643d",
+      "a8485e09-b973-454e-9530-9d87748892c0",
+      "5716c19d-2109-42cd-803a-a46e4171852c",
+      "3ecd1dc1-0898-4427-99a2-84f048e5a709",
+      "088bbd5a-055e-4a4e-a59c-46f3dce13666",
+      "9722a13f-f115-4c2b-baad-81326c24f63c"
+    ],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2",
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "America/New_York",
+  "webhook": {
+    "available": false,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.after",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "onePlatformApiVersion": "v2",
+  "analyzeQueryTextSentiment": false,
+  "enabledKnowledgeBaseNames": [],
+  "knowledgeServiceConfidenceAdjustment": -0.4
+}

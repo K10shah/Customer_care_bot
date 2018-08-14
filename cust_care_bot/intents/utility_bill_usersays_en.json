@@ -1,0 +1,72 @@
+[
+  {
+    "id": "4b013f29-53a5-48f7-af64-98482d71db99",
+    "data": [
+      {
+        "text": "how to pay utility bill using your service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527216224
+  },
+  {
+    "id": "d92cc672-89da-4f2e-b925-7c3f49f71279",
+    "data": [
+      {
+        "text": "how does one pay the utility bill using airtel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527216224
+  },
+  {
+    "id": "43c99d63-bbe8-4958-9720-98a999dcd65e",
+    "data": [
+      {
+        "text": "Hey can you tell me how I can do my utility payments through Airtel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527216224
+  },
+  {
+    "id": "37a46c65-376c-4375-a612-0adf6a5cabfe",
+    "data": [
+      {
+        "text": "utility ",
+        "userDefined": false
+      },
+      {
+        "text": "bill",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527216224
+  },
+  {
+    "id": "5f932e44-b22d-4292-bfa2-c93beeb4cb57",
+    "data": [
+      {
+        "text": "how to pay utility ",
+        "userDefined": false
+      },
+      {
+        "text": "bill",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527216224
+  }
+]

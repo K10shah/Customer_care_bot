@@ -1,0 +1,80 @@
+[
+  {
+    "id": "d6d3cf68-e9bb-4f94-bb36-4932b9ea2006",
+    "data": [
+      {
+        "text": "voice plans",
+        "alias": "Mobile_plan",
+        "meta": "@Mobile_plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527210516
+  },
+  {
+    "id": "01ccfa71-b934-4083-8f13-6dda532858e4",
+    "data": [
+      {
+        "text": "calling plans",
+        "alias": "Mobile_plan",
+        "meta": "@Mobile_plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527210516
+  },
+  {
+    "id": "b50f6a61-b170-48ac-ab1a-ccd93c8a0075",
+    "data": [
+      {
+        "text": "i want to see ",
+        "userDefined": false
+      },
+      {
+        "text": "voice plans",
+        "alias": "Mobile_plan",
+        "meta": "@Mobile_plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527210516
+  },
+  {
+    "id": "dc661901-236a-4640-a69d-5747fc9f671d",
+    "data": [
+      {
+        "text": "i want ",
+        "userDefined": false
+      },
+      {
+        "text": "voice plans",
+        "alias": "Mobile_plan",
+        "meta": "@Mobile_plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527210516
+  },
+  {
+    "id": "1fef741b-fe60-412a-9c1f-e4c2a206dbde",
+    "data": [
+      {
+        "text": "voice",
+        "alias": "Mobile_plan",
+        "meta": "@Mobile_plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527210516
+  }
+]

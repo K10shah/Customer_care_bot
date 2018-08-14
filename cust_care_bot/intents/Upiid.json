@@ -1,0 +1,52 @@
+{
+  "id": "9722a13f-f115-4c2b-baad-81326c24f63c",
+  "name": "Upiid",
+  "auto": true,
+  "contexts": [
+    "upitrans"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f57edfbf-1fa6-4dd9-aa06-d8679ffd7928",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "Id",
+          "value": "$Id",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Enter a valid id"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "0871c752-d1ba-427d-af5e-3d0dad3b0bec",
+          "required": true,
+          "dataType": "@sys.number-integer",
+          "name": "amount",
+          "value": "#upitrans.upinum"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Great, payment for $Id for $amount amount is done. Have a nice day"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527435174,
+  "fallbackIntent": false,
+  "events": []
+}

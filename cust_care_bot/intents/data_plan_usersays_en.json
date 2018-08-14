@@ -1,0 +1,124 @@
+[
+  {
+    "id": "f85037f1-fc17-4e42-b622-a4fad569b65f",
+    "data": [
+      {
+        "text": "data plan",
+        "alias": "Mobile_plan",
+        "meta": "@Mobile_plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527210302
+  },
+  {
+    "id": "9bcb1686-6bad-494b-ad0d-52db2ef47ecd",
+    "data": [
+      {
+        "text": "data",
+        "alias": "Mobile_plan",
+        "meta": "@Mobile_plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527210302
+  },
+  {
+    "id": "16e15e06-adff-4cfe-8a7a-928d423584cc",
+    "data": [
+      {
+        "text": "i want ",
+        "userDefined": false
+      },
+      {
+        "text": "data",
+        "alias": "Mobile_plan",
+        "meta": "@Mobile_plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527210302
+  },
+  {
+    "id": "b6c5cf94-b835-46db-9842-8e632ebdd947",
+    "data": [
+      {
+        "text": ";",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527427553
+  },
+  {
+    "id": "74ebf83b-52e8-4236-b213-19a5acfaa0a8",
+    "data": [
+      {
+        "text": "i want to check out ",
+        "userDefined": false
+      },
+      {
+        "text": "data plans",
+        "alias": "Mobile_plan",
+        "meta": "@Mobile_plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527210302
+  },
+  {
+    "id": "ad758575-9f54-4027-9866-375ed62a713a",
+    "data": [
+      {
+        "text": "i want to see ",
+        "userDefined": false
+      },
+      {
+        "text": "data plans",
+        "alias": "Mobile_plan",
+        "meta": "@Mobile_plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527210302
+  },
+  {
+    "id": "c0dd0131-c445-493f-b47a-7f940eacad66",
+    "data": [
+      {
+        "text": "internet plan",
+        "alias": "Mobile_plan",
+        "meta": "@Mobile_plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527210302
+  },
+  {
+    "id": "79690a3e-1aa4-4b21-a5f7-aff53b33478b",
+    "data": [
+      {
+        "text": "internet",
+        "alias": "Mobile_plan",
+        "meta": "@Mobile_plan",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527210302
+  }
+]

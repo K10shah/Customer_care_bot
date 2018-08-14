@@ -1,0 +1,55 @@
+{
+  "id": "765e8139-05ff-431e-bac0-b89228763962",
+  "parentId": "6df32fb1-be29-4ef2-92da-f42eee183988",
+  "rootParentId": "e017869b-2235-46fd-83a4-e75dff53ccc8",
+  "name": "data_plan",
+  "auto": true,
+  "contexts": [
+    "recharge_mobile_selected-followup",
+    "recharge_mobile-custom-2-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "recharge_mobile.recharge_mobile-custom-2.recharge_mobile_selected-custom",
+      "affectedContexts": [
+        {
+          "name": "data",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "4bbf4415-9011-4eea-9b55-82eaef03ea0d",
+          "required": true,
+          "dataType": "@Mobile_plan",
+          "name": "Mobile_plan",
+          "value": "$Mobile_plan",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Can you choose an option from above?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Great so you are looking for data plans so following are the plans available for Mumbai, please select one of your choice.\nRs. 50, Rs. 149, Rs. 169, Rs. 250"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527436685,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,51 @@
+{
+  "id": "4057cc16-e411-4250-83d8-9af7879b2670",
+  "name": "voice",
+  "auto": true,
+  "contexts": [
+    "voice"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "voice",
+          "parameters": {},
+          "lifespan": 1
+        },
+        {
+          "name": "final_phone_voice",
+          "parameters": {},
+          "lifespan": 1
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e467b839-db1c-45cb-80f5-8329d280eda2",
+          "required": true,
+          "dataType": "@voice_plan",
+          "name": "voice_plan",
+          "value": "$voice_plan",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Ok, Now please enter your phone number to activate Rs. $voice_plan plan"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527436514,
+  "fallbackIntent": false,
+  "events": []
+}

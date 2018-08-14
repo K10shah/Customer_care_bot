@@ -1,0 +1,28 @@
+{
+  "id": "5b2ae506-5cea-4396-bcf5-a39d9225e2a4",
+  "name": "utility_details",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There are various utility payments that you can make such as Eletricity,Gas,Water,Other  telecom payments, DTH recharge and lot more ,for details please click below link.\nwww.airtel.in/personal/money/where -to-use"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527426150,
+  "fallbackIntent": false,
+  "events": []
+}
